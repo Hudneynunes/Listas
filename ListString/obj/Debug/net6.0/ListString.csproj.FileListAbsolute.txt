@@ -1,0 +1,15 @@
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\bin\Debug\net6.0\ListString.exe
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\bin\Debug\net6.0\ListString.deps.json
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\bin\Debug\net6.0\ListString.runtimeconfig.json
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\bin\Debug\net6.0\ListString.dll
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\bin\Debug\net6.0\ListString.pdb
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.csproj.AssemblyReference.cache
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.GeneratedMSBuildEditorConfig.editorconfig
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.AssemblyInfoInputs.cache
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.AssemblyInfo.cs
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.csproj.CoreCompileInputs.cache
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.dll
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\refint\ListString.dll
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.pdb
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ListString.genruntimeconfig.cache
+G:\Udemy\Curso C#\Seção 6\ListString\ListString\obj\Debug\net6.0\ref\ListString.dll
